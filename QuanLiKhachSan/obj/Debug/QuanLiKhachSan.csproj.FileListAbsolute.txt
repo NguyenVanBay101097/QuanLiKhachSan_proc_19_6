@@ -1,0 +1,268 @@
+D:\lam lai\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+D:\lam lai\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+D:\lam lai\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+D:\lam lai\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+D:\lam lai\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+D:\lam lai\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.cache
+D:\lam lai\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\lam lai\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+D:\lam lai\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+D:\lam lai\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLogin.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLogin.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fManager.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.cache
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinTaiKhoan.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.test.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fCongNoTraPhong.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fBaoCaoHoaDon.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fHoaDonDichVu.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatPhong.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLichLamViec.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fSoDoPhong.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinKhach.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanChucVu.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanCongLichLamViec.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDanhSachNhanVien.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\DAL.dll
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Entity.dll
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\DAL.pdb
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Entity.pdb
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CopyComplete
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fReport.resources
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\project Quan Ly Khach San ver 1,0\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+D:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+D:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+D:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fBaoCaoHoaDon.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fCongNoTraPhong.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDanhSachNhanVien.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatPhong.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fHoaDonDichVu.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLichLamViec.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLogin.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fManager.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanChucVu.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanCongLichLamViec.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fReport.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fSoDoPhong.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinKhach.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinTaiKhoan.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+E:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+E:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+E:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+E:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\DAL.dll
+E:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Entity.dll
+E:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\DAL.pdb
+E:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Entity.pdb
+E:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fBaoCaoHoaDon.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fCongNoTraPhong.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDanhSachNhanVien.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatPhong.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fHoaDonDichVu.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLichLamViec.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLogin.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fManager.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanChucVu.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanCongLichLamViec.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fReport.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fSoDoPhong.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinKhach.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinTaiKhoan.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.test.resources
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.cache
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CopyComplete
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+E:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatDichVu.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\DAL.dll
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Entity.dll
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\DAL.pdb
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Entity.pdb
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fBaoCaoHoaDon.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fCongNoTraPhong.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDanhSachNhanVien.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatDichVu.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatPhong.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fHoaDonDichVu.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLichLamViec.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLogin.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fManager.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanChucVu.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanCongLichLamViec.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fReport.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fSoDoPhong.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinKhach.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinTaiKhoan.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.test.resources
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+D:\Downloads\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+D:\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatDichVu.resources
+D:\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CopyComplete
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fBaoCaoHoaDon.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fCongNoTraPhong.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDanhSachNhanVien.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatDichVu.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatPhong.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fHoaDonDichVu.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLichLamViec.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLogin.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fManager.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanChucVu.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanCongLichLamViec.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fReport.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fSoDoPhong.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinKhach.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinTaiKhoan.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.cache
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+E:\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fBaoCaoHoaDon.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fCongNoTraPhong.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDanhSachNhanVien.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatDichVu.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatPhong.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fHoaDonDichVu.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLichLamViec.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLogin.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fManager.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanChucVu.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanCongLichLamViec.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fReport.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fSoDoPhong.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinKhach.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinTaiKhoan.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+D:\Downloads\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fBaoCaoHoaDon.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fCongNoTraPhong.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDanhSachNhanVien.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatDichVu.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatPhong.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fHoaDonDichVu.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLichLamViec.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLogin.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fManager.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanChucVu.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanCongLichLamViec.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fReport.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fSoDoPhong.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinKhach.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinTaiKhoan.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.cache
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CopyComplete
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+D:\C#\QuanLiKhachSan_bay2\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fBaoCaoHoaDon.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fCongNoTraPhong.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDanhSachNhanVien.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatDichVu.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatPhong.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fHoaDonDichVu.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLichLamViec.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLogin.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fManager.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanChucVu.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanCongLichLamViec.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fReport.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fSoDoPhong.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinKhach.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinTaiKhoan.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.Cache
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+D:\Downloads\QuanLiKhachSan_proc_6_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csprojResolveAssemblyReference.cache
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fBaoCaoHoaDon.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fCongNoTraPhong.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDanhSachNhanVien.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatDichVu.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fDatPhong.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fHoaDonDichVu.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLichLamViec.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fLogin.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fManager.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanChucVu.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fPhanCongLichLamViec.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fReport.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fSoDoPhong.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinKhach.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.fThongTinTaiKhoan.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.cache
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CopyComplete
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+D:\C#\QuanLiKhachSan_proc_17_6\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
